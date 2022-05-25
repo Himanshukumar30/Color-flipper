@@ -1,16 +1,85 @@
-.header{
-    background: #D1E3DD;
-    padding: 0.1em;
-    border: none;
-}
-.navbar{
-background: #F7FFF7;
-border: none;
-padding: 0.1em;
+/* --------- Global variables --------- */
+h1 {
+    background-color: #E0E0CE;
+    border-radius: 3em;
+    padding: 0.5em;
+    color: #283845;
+    font-size: 180%;
 }
 
-.content{
-    padding: 30%;
+/* ------ Project header -------- */
+.header {
+  background: #d1e3dd;
+  padding: 0.1em;
+  border: none;
+  font-family: "Teko", sans-serif;
+  color: #283845;
+}
+
+/* ------- Navigation bar -------- */
+.navbar {
+  display: flexbox;
+  background: #f7fff7;
+  color: #283845;
+  border: none;
+  padding: 0.1em;
+  font-family: "Teko", sans-serif;
+}
+
+.navlink {
+    display: flex;
+    justify-content:space-around;
+    font-family: "Teko", sans-serif;
+    /* font-size: 18px; */
+    list-style-type:none;
+    flex-wrap: nowrap;
+    text-shadow: 10px;
+}
+
+.navlink a {
+    display: flex;
     text-align: center;
-    justify-content: center;
+    border-radius: 3em;
+    text-decoration: none;
+    color: #F9EAE1;
+    background-color: #283845;
+    padding: 0.9em;
+    margin: 1em;
+    flex-wrap: nowrap;
+    text-shadow: 10px;
+}
+
+.navlink a:hover {
+    display: flex;
+    text-align: center;
+    border-radius: 3em;
+    text-decoration: none;
+    color: #F9EAE1;
+    /* background-color: #546A76; */
+    background-color: #1D7874;
+    padding: 0.9em;
+    /* font-size: 18px; */
+    margin: 1em;
+    flex-wrap: nowrap;
+}
+
+/* ---------- Main body ---------- */
+.content {
+  padding: 30%;
+  text-align: center;
+  justify-content: center;
+}
+
+.click-button{
+    color: #283845;
+    font-size: 1em;
+    padding: 0.6em;
+    background: transparent;
+    border-radius: 1em;
+    
+}
+
+.click-button:hover{
+    background: #283845;
+    color: white;
 }
