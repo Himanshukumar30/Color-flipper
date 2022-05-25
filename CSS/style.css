@@ -1,0 +1,16 @@
+.header{
+    background: #D1E3DD;
+    padding: 0.1em;
+    border: none;
+}
+.navbar{
+background: #F7FFF7;
+border: none;
+padding: 0.1em;
+}
+
+.content{
+    padding: 30%;
+    text-align: center;
+    justify-content: center;
+}
