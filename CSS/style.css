@@ -49,6 +49,15 @@ h1 {
     text-shadow: 10px;
 }
 
+/* .navlink a:active{
+    background: #436B75;
+    color: #283845;
+} */
+
+.active{
+    background: rgb(76, 113, 122);
+}
+
 .navlink a:hover {
     display: flex;
     text-align: center;
