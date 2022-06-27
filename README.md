@@ -26,7 +26,11 @@ I developed this project to demonstrate my skills for JavaScript
 
 
 
-https://user-images.githubusercontent.com/87880250/175847158-d174cf83-2e89-4970-9122-de003aaf566a.mov
+
+https://user-images.githubusercontent.com/87880250/175849508-65e38867-7383-459a-8850-864f5dbf2390.mov
+
+
+
 
 
 
