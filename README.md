@@ -1,5 +1,7 @@
 # Color-flipper
 
+<img width="1170" alt="Color-flipper banner" src="https://user-images.githubusercontent.com/87880250/175847125-6977aa28-d577-4da3-a831-83971a46df06.png">
+
 
 I developed this project to demonstrate my skills for JavaScript
 
@@ -22,7 +24,11 @@ I developed this project to demonstrate my skills for JavaScript
 
 # Demo-preview
 
-<<<<< coming soon >>>>>
+
+
+https://user-images.githubusercontent.com/87880250/175847158-d174cf83-2e89-4970-9122-de003aaf566a.mov
+
+
 
 # Table of contents
 
